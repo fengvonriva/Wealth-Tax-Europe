@@ -13,3 +13,8 @@ This repository contains a self-contained static website in `index.html`.
 The workflow publishes only `index.html`; it does not require a framework,
 package installation, or external runtime dependencies. Subsequent pushes to
 `main` publish updates automatically.
+
+# ToDo
+- Superbollo --> entfernen
+- Russland 
+
